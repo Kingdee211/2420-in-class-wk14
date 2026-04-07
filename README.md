@@ -1,1 +1,1 @@
-![alt text](images2droplets.png)
+![](images/2droplets.png)
